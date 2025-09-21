@@ -1,0 +1,11 @@
+D:\IT\Level 4\Cryptography & Information Security\Cryptography-and-Information-Security-Course\CryptoBox\bin\Debug\CryptoBox.exe.config
+D:\IT\Level 4\Cryptography & Information Security\Cryptography-and-Information-Security-Course\CryptoBox\bin\Debug\CryptoBox.exe
+D:\IT\Level 4\Cryptography & Information Security\Cryptography-and-Information-Security-Course\CryptoBox\bin\Debug\CryptoBox.pdb
+D:\IT\Level 4\Cryptography & Information Security\Cryptography-and-Information-Security-Course\CryptoBox\obj\Debug\CryptoBox.csproj.AssemblyReference.cache
+D:\IT\Level 4\Cryptography & Information Security\Cryptography-and-Information-Security-Course\CryptoBox\obj\Debug\CryptoBox.csproj.SuggestedBindingRedirects.cache
+D:\IT\Level 4\Cryptography & Information Security\Cryptography-and-Information-Security-Course\CryptoBox\obj\Debug\CryptoBox.CryptoBox.resources
+D:\IT\Level 4\Cryptography & Information Security\Cryptography-and-Information-Security-Course\CryptoBox\obj\Debug\CryptoBox.Properties.Resources.resources
+D:\IT\Level 4\Cryptography & Information Security\Cryptography-and-Information-Security-Course\CryptoBox\obj\Debug\CryptoBox.csproj.GenerateResource.cache
+D:\IT\Level 4\Cryptography & Information Security\Cryptography-and-Information-Security-Course\CryptoBox\obj\Debug\CryptoBox.csproj.CoreCompileInputs.cache
+D:\IT\Level 4\Cryptography & Information Security\Cryptography-and-Information-Security-Course\CryptoBox\obj\Debug\CryptoBox.exe
+D:\IT\Level 4\Cryptography & Information Security\Cryptography-and-Information-Security-Course\CryptoBox\obj\Debug\CryptoBox.pdb
