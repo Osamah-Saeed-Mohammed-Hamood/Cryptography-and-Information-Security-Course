@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d506bf5-2ece-44c1-8155-3fbcaeeb2760": {
+      "ProjectGuid": "3d506bf5-2ece-44c1-8155-3fbcaeeb2760",
+      "DisplayName": "Playfair_Cipher_Alg",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
